@@ -11,6 +11,6 @@ The goal of this project was to understand the fundamentals of Web3 development 
  **Real-Time Tallying:** Automatic, decentralized calculation of voting results directly on the blockchain.
  **Immutability:** Once deployed, the rules of the vote cannot be altered by anyone.
 
-## 💻 Tech Stack
+## Tech Stack
  **Language:** Solidity
  **Ecosystem:** Citrea (ZK-Rollup Layer 2)
